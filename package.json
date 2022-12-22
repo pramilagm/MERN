@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "gravator": "^1.0.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^3.5.3",
     "mongoose": "^5.9.1",
     "request": "^2.88.2"
